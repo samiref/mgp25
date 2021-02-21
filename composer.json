@@ -1,5 +1,5 @@
 {
-    "name": "mgp25/instagram-api",
+    "name": "samiref/instagram-api",
     "description": "Instagram's private API for PHP",
     "license": [
         "RPL-1.5",
@@ -12,9 +12,9 @@
         "PHP"
     ],
     "support": {
-        "issues": "https://github.com/mgp25/Instagram-API/issues",
-        "wiki": "https://github.com/mgp25/Instagram-API/wiki",
-        "source": "https://github.com/mgp25/Instagram-API/"
+        "issues": "https://github.com/samiref/Instagram-API/issues",
+        "wiki": "https://github.com/samiref/Instagram-API/wiki",
+        "source": "https://github.com/samiref/Instagram-API/"
     },
     "authors": [
         {
